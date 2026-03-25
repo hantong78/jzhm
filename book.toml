@@ -3,6 +3,10 @@ authors = []
 language = "zh"
 multilingual = false
 src = "src"
+title = "鉴证幻梦：经历与幻想"
+
+[build]
+build-dir = "site"
 
 [output.html]
 no-section-label = true
